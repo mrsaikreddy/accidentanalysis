@@ -1,0 +1,120 @@
+.navi ul{text-align: center;background-color: rgba(0,0,0,0.5); size: inherit;
+  position:sticky;}
+  
+  .navi ul li{display:inline-block;
+            list-style:none;
+       
+         }
+  
+          
+  .navi ul li a{
+      display: block;
+      color:#fff;
+      text-decoration:none;
+      font-size: 15px;
+      font-family: 'Raleway',sans-serif;
+      font-weight: 600;
+      text-decoration:none;
+      padding: 20px;;
+      transition: 0.6s;
+    
+      
+  }
+   
+  .navi{
+    position:fixed;
+    padding-top: 0;
+  }
+    nav a:hover ,a:active{
+     background:rgb(6, 216, 231);
+     transition-duration:1s;
+    
+     }
+     
+     
+  
+     
+  
+     section{
+       background-color: white;
+       border-width: 1mm;
+       height:inherit;
+       width: 95%;
+       border-color:rgba(61, 173, 238, 0.952);
+       text-align: center;
+       margin:3mm;
+       border-style: solid;
+       border-radius: 6mm;
+       border-radius:6mm;
+     }
+  
+     h1{font-family: cursive;font-size: large;}
+  
+    .pic{border-radius:4cm;
+      height:4cm;width:4cm;border-color:white;
+      border-style:double;
+      border-width:1mm;float:inline-start;
+    padding:2mm;
+  border-width: 1.5mm;}
+    .in{float:right;width: 80%;margin:1mm;
+      padding: 1mm;color:white;height:inherit;
+      text-align: justify;color: black;}
+    .main{border:1mm;border-radius: 10mm;
+      border-radius:10mm;background-color:white;
+      border-style: solid;height: inherit;border-color:whitesmoke;}
+  
+     .out{
+       padding: 3mm;
+       text-align: center;
+       background-size: 100%;
+       border:1mm;
+       border-style:solid;
+       border-top-left-radius: 5mm;
+       border-bottom-right-radius:5mm;
+       border-color: aliceblue;
+      }
+   .box{
+    height:60%;
+    width:23%;margin:2mm;
+    background-repeat: no-repeat;background-size:cover;
+   }
+  
+   .icon{
+     height:2.5cm;
+     width: 2.5cm;
+     border-radius: 2.5cm;
+  
+   }
+  .footer{
+    padding: 1mm;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    height: 15cm;
+    border-radius: 5mm;
+    color:#fff
+  }
+   .footer ul li{
+     display: inline-block;
+     padding: 30px;
+     list-style: none;
+     text-align: center;
+  
+  
+   }
+  
+   .footer a:hover,a:active{
+     background-color: #fff;
+     transition-duration: 1s;
+   
+   }
+  
+   .link a:active{
+     background-color: #fff;
+   }
+   .link a:hover{
+     background-color: blue;
+   }
+  .link a:link{
+    background-color: rgb(236, 154, 30);
+  }
+  
