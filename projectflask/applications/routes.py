@@ -1,8 +1,7 @@
 #DATA SCIENCE PROJECT 
 #TEAM-1
 #SAI KIRAN REDDY K
-#KODAM KARTHIK
-#KADAGALA PRANEETH
+from flask import render_template
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file 
 import plotly
